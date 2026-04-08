@@ -24,6 +24,7 @@ Tasks To Be Performed:
 15. From the Power BI Service, download the copy of your report in a pdf/ppt format.
 
 16. screenshots / Demos
-17. show what the dashboard looks like.
-18. https://github.com/nikhilgiri2731-afk/Global-YouTube-Statistics/blob/main/Youtube%20Statistics%20(Page-1).png
-19. https://github.com/nikhilgiri2731-afk/Global-YouTube-Statistics/blob/main/Youtube%20Statistics%20(Page-2).png
+17. 
+18. show what the dashboard looks like.
+19. https://github.com/nikhilgiri2731-afk/Global-YouTube-Statistics/blob/main/Youtube%20Statistics%20(Page-1).png
+20. https://github.com/nikhilgiri2731-afk/Global-YouTube-Statistics/blob/main/Youtube%20Statistics%20(Page-2).png
