@@ -22,3 +22,7 @@ Tasks To Be Performed:
 13. Publish your report to the Power BI Service.
 14. Create a dashboard with 3 important visuals.
 15. From the Power BI Service, download the copy of your report in a pdf/ppt format.
+
+16. screenshots / Demos
+17. show what the dashboard looks like.
+18. 
